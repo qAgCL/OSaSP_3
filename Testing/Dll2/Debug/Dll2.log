@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+d:\5 сем\осисп\laba3\testing\dll2\source.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+d:\5 сем\осисп\laba3\testing\dll2\source.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+d:\5 сем\осисп\laba3\testing\dll2\source.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\5 сем\осисп\laba3\testing\dll2\source.cpp(89): warning C4477: "printf": в строке форматирования "%#10.10x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "PVOID"
+  Создание кода...
+     Создается библиотека D:\5 сем\ОСиСП\Laba3\Testing\Debug\ChangeDLLInject.lib и объект D:\5 сем\ОСиСП\Laba3\Testing\Debug\ChangeDLLInject.exp
+  Dll2.vcxproj -> D:\5 сем\ОСиСП\Laba3\Testing\Debug\ChangeDLLInject.dll
