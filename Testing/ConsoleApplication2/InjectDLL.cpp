@@ -48,8 +48,10 @@ BOOL InjectLIb(DWORD ProcID, PCSTR LibFile) {
 
 int main()
 {
-	
-	InjectLIb(17936, "D:\\5 сем\\ОСиСП\\Laba3\\Testing\\Debug\\ChangeDLLInject.dll");
+	int pid;
+	cout << "Write program pid" << endl;
+	cin >> pid;
+	InjectLIb(pid, "D:\\5 сем\\ОСиСП\\Laba3\\Testing\\Debug\\ChangeDLLInject.dll");
 
 	return 0;
 
